@@ -17,3 +17,4 @@
 6. t - fout
 7. r - fout
 8. k - fout
+9. s
