@@ -18,3 +18,4 @@
 7. r - fout
 8. k - fout
 9. s - fout
+10. n 
