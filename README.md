@@ -16,3 +16,4 @@
 5. l - fout
 6. t - fout
 7. r - fout
+8. k
