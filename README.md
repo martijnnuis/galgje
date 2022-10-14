@@ -14,3 +14,4 @@
 3. a - goed
 4. h - goed
 5. l - fout
+6. t
