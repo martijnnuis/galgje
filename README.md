@@ -15,4 +15,4 @@
 4. h - goed
 5. l - fout
 6. t - fout
-7. 
+7. r
