@@ -6,7 +6,7 @@
 
 
 ## Score 
-![](./images/4.png)
+![](./images/5.png)
 
 ## Beurten
 1. j -fout
@@ -16,4 +16,4 @@
 5. l - fout
 6. t - fout
 7. r - fout
-8. k
+8. k - fout
