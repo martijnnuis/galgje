@@ -4,9 +4,10 @@
 
 |h|a|.|e|.| |h|a|a|.|
 
+het woord: hamer haail
 
 ## Score 
-![](./images/6.png)
+![](./images/7.png)
 
 ## Beurten
 1. j -fout
@@ -18,4 +19,4 @@
 7. r - fout
 8. k - fout
 9. s - fout
-10. n 
+10. n - fout
